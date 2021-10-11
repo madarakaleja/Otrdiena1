@@ -1,3 +1,7 @@
 h1{
     text-align: center;
 }
+img{
+    border-width: 10;
+    border-color: rgb(195, 24, 218);
+}
